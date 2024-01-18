@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -  motolm
-- 
+-<!--- 수정하였습니다. --->
   <!--- motolm=12322--->
 <!---
 motolm/motolm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
